@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Login - Chat NIM</title>
+
+  <!-- SDK oficial do Supabase -->
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
+
+  <!-- CSS separado -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <div class="card">
+    <h2>Login - Chat NIM</h2>
+
+    <label for="email">Email</label>
+    <input id="email" type="email" placeholder="seu@exemplo.com" />
+
+    <label for="password">Senha</label>
+    <input id="password" type="password" placeholder="senha" />
+
+    <button id="btnSignIn">Entrar</button>
+
+    <hr/>
+    <small>Não tem conta?</small>
+    <button id="btnSignUp" style="background:#10b981">Criar conta</button>
+
+    <p id="msg"></p>
+  </div>
+
+  <!-- JavaScript separado -->
+  <script src="auth.js"></script>
+</body>
+</html>

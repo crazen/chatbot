@@ -1,0 +1,314 @@
+
+Alan James Peixoto Calheiros
+Researcher, Instituto Nacional de Pesquisas Espaciais
+Verified email at inpe.br
+meteorology
+Title	
+Cited by
+Year
+The Green Ocean Amazon experiment (GoAmazon2014/5) observes pollution affecting gases, aerosols, clouds, and rainfall over the rain forest
+ST Martin, P Artaxo, L Machado, AO Manzi, RAF Souza, C Schumacher, ...
+Bulletin of the American Meteorological Society 98 (5), 981-997
+159	2017
+The Chuva Project: How Does Convection Vary across Brazil?
+LAT MACHADO, MAF SILVA DIAS, C MORALES, G FISCH, D VILA, ...
+Bulletin of the American Meteorological Society 95, 1365-1380
+138	2014
+Overview: Precipitation characteristics and sensitivities to environmental conditions during GoAmazon2014/5 and ACRIDICON-CHUVA
+LAT Machado, AJP Calheiros, T Biscaro, S Giangrande, MAF Silva Dias, ...
+Atmospheric Chemistry and Physics 18 (9), 6461-6482
+66	2018
+The Amazon Dense GNSS Meteorological Network: A New Approach for Examining Water Vapor and Deep Convection Interactions in the Tropics
+DK ADAMS, RUIMS FERNANDES, KL HOLUB, SI GUTMAN, ...
+Bulletin of the American Meteorological Society
+59	2015
+El Niño e La Niña dos últimos 30 anos: diferentes tipos
+MT Kayano, RV Andreoli, RAF Souza, SR Garcia, AJP Calheiros
+Inst. Nac. Pesqui. Espac 30, 7-12
+41	2016
+Cloud and Rain Liquid Water Statistics in the CHUVA Campaign
+AJP CALHEIROS, LAT MACHADO
+Atmospheric Research 144, 126-140
+33	2014
+The green ocean amazon experiment (GOAMAZON2014/5) observes pollution affecting gases, aerosols, clouds, and rainfall over the rain forest, B. Am. Meteorol. Soc., 98, 981–997
+ST Martin, P Artaxo, L Machado, AO Manzi, RAF Souza, C Schumacher, ...
+31	2017
+Onset and demise dates of the rainy season in the South American monsoon region: A cluster analysis result
+MAM Rodrigues, SR Garcia, MT Kayano, AJP Calheiros, RV Andreoli
+International Journal of Climatology 42 (3), 1354-1368
+17	2022
+Revised method to detect the onset and demise dates of the rainy season in the South American Monsoon areas
+SR Garcia, AJP Calheiros, MT Kayano
+Theoretical and Applied Climatology 126 (3), 481-491
+16	2016
+Ground-based single-frequency microwave radiometric measurement of water vapour
+PK Karmakar, M Maiti, AJP Calheiros, CF Angelis, LAT Machado, ...
+International journal of remote sensing 32 (23), 8629-8639
+14	2011
+The CHUVA Project–how does convection vary across Brazil?, B. Am. Meteorol. Soc., 95, 1365–1380
+LAT Machado, MAF Silva Dias, C Morales, G Fisch, D Vila, R Albrecht, ...
+12	2014
+A., and Tokay, A.: The CHUVA project: how does convection vary across Brazil?, B. Am. Meteorol. Soc., 95, 1365–1380
+LAT Machado, MAF Silva Dias, C Morales, G Fisch, D Vila, R Albrecht, ...
+11	2014
+Um evento de precipitação extrema sobre a costa leste do nordeste do Brasil
+AJP CALHEIROS, LCB MOLION, JCM Vaz, RS TENÓRIO
+Congresso Brasileiro De Meteorologia, XIV-(CBMET), Florianópolis, SC …
+11	2006
+Building the next generation of climate modelers: Scale-aware physics parameterization and the “grey zone” challenge
+A Frassoni, D Castilho, M Rixen, E Ramirez, JGZ De Mattos, P Kubota, ...
+Bulletin of the American Meteorological Society 99 (11), ES185-ES189
+9	2018
+Moisture and heat budgets of the south American monsoon system: climatological aspects
+SR Garcia, MT Kayano, AJP Calheiros, RV Andreoli, RAF de Souza
+Theoretical and Applied Climatology 130 (1), 233-247
+9	2017
+An improved near-real-time precipitation retrieval for Brazil
+S Pfreundschuh, I Ingemarsson, P Eriksson, DA Vila, AJP Calheiros
+Atmospheric Measurement Techniques 15 (23), 6907-6933
+8	2022
+Propriedades Radiativas e Microfísicas das Nuvens Continentais: Uma Contribuição para a Estimativa da Precipitação de Nuvens Quentes por Satélite. 2013. 180 p
+AJP Calheiros
+Ph. D. Thesis
+6	2013
+The Amazon dense GNSS meteorological network: a new approach for examining water vapor and deep convection interactions in the Tropics, B. Am. Meteorol. Soc., 96, 2151–2165
+DK Adams, RMS Fernandes, KL Holub, SI Gutman, HMJ Barbosa, ...
+BAMS-D-13-00171.1
+5	2015
+Tropical cloud processes: First results from CHUVA Project
+LAT Machado, A Calheiros, E Mattos, I Costa, D Vila, R Albrecht, ...
+16th International Conference on Clouds and Precipitation (ICCP2012 …
+4	2012
+Sistema de Previsao Imediata: Descriçao dos Produtos
+AJP Calheiros, DP Enoré, EV Mattos, IC da Costa, LAT Machado
+Centro de Previsao de Tempo e Estudos Climáticos (CPTEC), Cachoeira Paulista-SP
+3	2016
+Some considerations on the cryogenic calibration technique for microwave and millimeter wave ground-based radiometry
+MAS Miacci, CF Angelis, AJP Calheiros, LAT Machado
+Revista de Gestão & Tecnologia 3 (3), 47-52
+3	2015
+Impact of Multi-Thresholds and Vector Correction for Tracking Precipitating Systems over the Amazon Basin
+HB Leal, AJP Calheiros, HMJ Barbosa, AP Almeida, A Sanchez, DA Vila, ...
+Remote Sensing 14 (21), 5408
+2	2022
+Evaluation of Wind and Wave Estimates from CMEMS Reanalysis for Brazil’s Offshore Energy Resource Assessment
+IGF Freitas, HB Gomes, M Peña, P Mitsopoulos, TSV Nova, KMR Silva, ...
+Wind 2 (3), 586-598
+2	2022
+Aplicação de Redes Neurais Recorrentes em séries temporais de estações meteorológicas para imputação de dados: uma abordagem sobre micro-estações meteorológicas na região Oeste …
+HL Neto, AJ Calheiros, R Santos, M Quiles, A Muralikrishna, A Almeida, ...
+Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos …
+2	2020
+Data mining approaches to the real-time monitoring and early warning of convective weather using lightning data
+S Stephany, C Strauss, AJP Calheiros, GRT de Lima, JVC Garcia, ...
+Towards Mathematics, Computers and Environment: A Disasters Perspective, 83-101
+2	2019
+Influence of soil moisture on mesoscale convective initiation in central Mexico
+E Dolores, E Caetano, LC López-Bravo, A Calheiros
+European Journal of Remote Sensing 52 (1), 640-652
+2	2019
+Vertical cloud structure over a north-eastern Brazilian coastal city using LIDAR, a microwave radiometer and a K-band hydrometeor profiler
+R Bourayou, AJP Calheiros, J Sakuragi, M Miacci, HJM Barbosa, ...
+Workshop on LiDAR measurements in Latin America—VI WLMLA 6, 2011
+2	2011
+Análise da ocorrência de eventos extremos de precipitação registrados no município de Itajubá, MG
+B Campos, VSB Carvalho, AJP Calheiros
+Anais do XIX Congresso Brasileiro de Meteorologia; Sociedade Brasileira de …
+2	2011
+Reanálise da seca de 1992-1993 no nordeste do Brasil com ênfase no estado de alagoas
+AJP Calheiros, LCB Molion
+XIII Congresso Brasileiro de Meteorologia, Fortaleza. Anais eletrônicos …
+2	2004
+Analyzing and forecasting the morphology of Amazon deforestation
+MJ Teixeira, LAT Machado, P Artaxo, A Calheiros, P Correa, MA Franco, ...
+Forest Ecology and Management 586, 122662
+1	2025
+A study on the impact of data balance on rainfall prediction through artificial neural networks using surface microwave radiometers
+LJC Neto, AJP Calheiros
+Latin-American Journal of Computing 11 (2), 51-59
+1	2024
+Uma abordagem usando redes neurais artificiais para a previsão de curto prazo de altura de ondas marítimas em região portuária
+VC Paspaltzis, AJP Calheiros
+Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos …
+1	2023
+A distribuição espacial das descargas elétricas na região central da Bacia Amazônica e o uso da árvore de decisão em dados de radar meteorológico para sua classificação
+A Almeida, A Calheiros, R Albrecht, L Machado, R Santos, HL Neto, ...
+Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos …
+1	2020
+A influência dos Vórtices Ciclônicos de Altos Níveis em eventos extremos de precipitação na bacia do Rio Sapucaí, MG
+B Campos, AJP Calheiros, VSB Carvalho
+XVII CONGRESSO BRASILEIRO DE METEOROLOGIA
+1	2012
+The HydroTrack: A nowcasting application using GOES data
+AJP Calheiros, LAT Machado
+AIP Conference Proceedings 1100 (1), 361-364
+1	2009
+Sistema de previsão imediata da precipitação: o Hydrotrack
+AJP Calheiros
+Dissertação de Mestrado, INPE. Cachoeira Paulista
+1	2008
+Tracking a Decade of GSMaP-Derived Precipitating Systems with pyForTraCC
+A Calheiros, HL Neto, T Kubota, D Vila, S Garcia, T Ushio, H Hirose
+EMS2025
+2025
+Trend Analysis of Precipitation in the South American Monsoon System (SAMS) Regions and Identification of Most Intense and Weakest Rainy Seasons
+SR Garcia, MAM Rodrigues, MT Kayano, AJP Calheiros
+2025
+Deep Learning Approaches for Nowcasting Cloud-to-Ground Lightning in the Amazon Basin: A Comparative Study of U-Net and ConvLSTM Architectures
+AP Almeida, AP Almeida, AJP Calheiros, A Sanchez, C Morales
+Authorea Preprints
+2024
+Comparison Link Function from Summer Rainfall Network in Amazon Basin
+CA Sánchez P, AJP Calheiros, SR Garcia, EEN Macau
+Meteorology 2 (4), 530-546
+2023
+Application of satellite rainfall estimation in the identification of communities via complex networks in South America
+A Calheiros, CA Sánchez Peña, A Almeida
+AGU Fall Meeting Abstracts 2023 (2304), H43P-2304
+2023
+Downscaling of satellite-based rainfall estimation data along a railway in Brazil
+F Cossetin, A Calheiros
+AGU Fall Meeting Abstracts 2023 (2303), H43P-2303
+2023
+Deep Learning Approaches for Nowcasting Cloud-to-Ground Lightning in the Amazon Basin: A Comparative Study of U-Net and ConvLSTM Architectures
+A Almeida, A Calheiros, CA Sánchez Peña, C Morales Rodriguez
+AGU Fall Meeting Abstracts 2023 (2344), A21F-2344
+2023
+Comparaçao de Classificadores de Aprendizado de Máquina para Modelagem de Distribuiçao de Espécies: um estudo de caso na Bacia Amazônica
+RO Miyaji, FV de Almeida, PLP Corrêa, LV Rizzo, A Calheiros, M Teixeira
+Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos …
+2023
+Evaluation of Time Series Causal Detection Methods on the Influence of Pacific and Atlantic Ocean over Northeastern Brazil Precipitation
+JEC Cruz, MT Kayano, AJP Calheiros, SR Garcia, MG Quiles
+International Conference on Computational Science and Its Applications, 422-439
+2023
+Multi-Sensors Data Quality Tools for Precipitation on the Amazon Region
+T Pougy, AJP Calheiros, G Prakash, P Corrêa
+Authorea Preprints
+2022
+A Study of Spatio-Temporal Lightning Patterns Using Self-Organizing Maps
+PA Adriano, PCA James, S Arturo, BLN Helvecio
+Authorea Preprints
+2022
+Application of the DBSCAN algorithm for identifying morphological features of atmospheric systems over the amazon basin
+BLN Helvecio, PCA James
+Authorea Preprints
+2022
+Spatial Sensitivity of Complex Network Communities in the Amazon Basin in Relation to the Minimum Link Value
+SPC Arturo, PCA James, PA Adriano, BLN Helvecio
+Authorea Preprints
+2022
+Evaluating ML models for lightning forecasting in Brazil
+ASB Pereira, AL Fazenda, AJP Calheiros
+Simpósio Brasileiro de Banco de Dados (SBBD), 187-192
+2022
+Enhanced Deep Convection and Lightning Activity along the Amazon River tributaries
+R Albrecht, C Lopes, S Freitas, C Monteiro, H Fukuda, T Biscaro, ...
+AGU Fall Meeting Abstracts 2021, AE12A-04
+2021
+Daily to Sub-daily precipitation downscaling based on multiple datasets using artificial neural networks in Brazil
+R Batista, A Calheiros, D Vila
+EGU General Assembly Conference Abstracts, EGU21-13654
+2021
+Requirements of Data Portal for Atmospheric Data Measurement in the Brazilian context
+R Encinas, PL Pizzigatti Corrêa, LV Rizzo, J Machicao, R Devarakonda, ...
+AGU Fall Meeting Abstracts 2020, IN045-05
+2020
+Withdrawn: Tracking Easterly Wave Disturbances using Multispectral Satellite Data over the Brazilian Northeastern Region: A Case Study
+C Azevedo, DA Vila, AJP Calheiros, H Gomes
+2019 Joint Satellite Conference
+2019
+UMA REVISÃO DAS PROPRIEDADES DA CONVECÇÃO NA REGIÃO TROPICAL DA AMÉRICA DO SUL: VARIABILIDADE E ANÁLISE DE TENDÊNCIA
+LB da Rocha, AJP Calheiros, SRG Calheiros
+2019
+PREDICTION OF OCCURRENCE OF CLOUD-TO-GROUND ELECTRICAL DISCHARGES USING FORECASTS OF THE BRAMS NUMERICAL MODEL
+A de Almeida Fernandes, GRT de Lima, S Stephany, AJP Calheiros
+Revista Mundi Engenharia, Tecnologia e Gestão (ISSN: 2525-4782) 4 (3)
+2019
+PREDIÇÃO DE OCORRÊNCIA DE DESCARGAS ELÉTRICAS NUVEM-SOLO
+LGP de Melo, A de Almeida Fernandes, GRT de Lima, S Stephany, ...
+XXI Encontro Nacional de Modelagem Computacional e IX Encontro de Ciência e …
+2018
+On the Trigger and Time-Scales of Shallow-to-Deep Convection in Amazonia
+HM Barbosa, CF Alves, T Pauliquevis, DA Gouveia, A Vieira dos Santos, ...
+AGU Fall Meeting Abstracts 2018, A11O-2498
+2018
+BUILDING THE NEXT GENERATION OF CLIMATE MODELERS Scale-Aware Physics Parameterization and the
+A Frassoni, D Castilho, M Rixen, E Ramirez, JGZ de Mattos, P Kubota, ...
+2018
+SUPPLEMENT: THE GREEN OCEAN AMAZON EXPERIMENT (GOAMAZON2014/5) OBSERVES POLLUTION AFFECTING GASES, AEROSOLS, CLOUDS, AND RAINFALL OVER THE RAIN FOREST
+ST Martin, P Artaxo, L Machado, AO Manzi, RAF Souza, C Schumacher, ...
+Bulletin of the American Meteorological Society 98 (5), ES135-ES137
+2017
+Cloud-aerosol-precipitation interactions in deep convection and cloud electrification over the Amazon
+RI Albrecht, CAM Rodriguez, H Hölle, R Braga, L Machado, J Neves, ...
+ICCP 2016 Manchester
+2016
+SUPPLEMENT: THE AMAZON DENSE GNSS METEOROLOGICAL NETWORK: A New Approach for Examining Water Vapor and Deep Convection Interactions in the Tropics
+DK Adams, RMS Fernandes, KL Holub, SI Gutman, HMJ Barbosa, ...
+Bulletin of the American Meteorological Society 96 (12), ES209-ES209
+2015
+Cloud and Precipitation During GoAmazon: The Influence of Aerosol and Thermodynamics.
+L Machado, M Cecchin, T Biscaro, W Lima, AJP Calheiros, RI Albrecht, ...
+AGU Fall Meeting Abstracts 2015, A24B-05
+2015
+Microphysical And Macrophysical Characteristics Of Non-Precipitating Morning Shallow Clouds In Central Amazonia Using One-Year Of Data From GOAMAZON 2014/15 Experiment
+T Pauliquevis, HM Barbosa, N Rosario, LV Rizzo, AL Correia, DK Adams, ...
+AGU Fall Meeting Abstracts 2015, A24B-08
+2015
+On the role of thermodynamics and cloud-aerosol-precipitation interactions over thunderstorm activity during GoAmazon and ACRIDICON-CHUVA field experiments
+RI Albrecht, CA Morales, H Hoeller, RC Braga, L Machado, M Wendisch, ...
+AGU Fall Meeting Abstracts 2015, A24B-03
+2015
+Propriedade radiativas e microfísicas das nuvens continentais: uma contribuição para a estimativa da precipitação de nuvens quentes por satélite
+AJP Calheiros
+2013
+Post rain attenuation studies over a tropical location.
+K BHATTACHARYA, AJP CALHEIROS, M MAITI, PK KARMAKAR
+Novus Natural Science Research 2, 21-26
+2013
+Estimativa da água precipitável utilizando dados do sensor MODIS-TERRA e Radiômetro de Microondas
+L AMARAL, R CAMPOS, AJP CALHEIROS, NJ Ferreira, Y Yamazaki, ...
+XVI Congresso Brasileiro de Meteorologia 16
+2010
+브라질 북동부 해안의 악기상: 2004 년 1 월 사례
+TR Sarmento, K Byung-Hyuk, MLC Baldicero, CAJ Peixoto
+Journal of the Korea Institute of Information and Communication Engineering …
+2006
+Severe Weather Events over Northeastern Brasil: The January 2004 Event
+TR Sarmento, K Byung-Hyuk, MLC Baldicero, CAJ Peixoto
+Journal of the Korea Institute of Information and Communication Engineering …
+2006
+ESTUDO SOBRE A ESTIMAÇÃO DE INDICADORES SOCIOECONÔMICOS USANDO DEEP LEARNING E IMAGENS DE SATÉLITE.
+JPB Madeira, AJP Calheiros, PL Pizzigatti
+A distribuiç ao espacial das descargas elétricas na regiao central da Bacia Amazônica e o uso da árvore de decisao em dados de radar meteorológico para sua classificaç ao
+AP Almeida, AJP Calheiros, RI Albrecht, LAT Machado, RDC Santos, ...
+Summertime Extreme Precipitation Communities by Complex Network in South America
+A Sanchez, A Calheiros, I Vasquez, S Garcia, M Quiles, A Almeida, H Leal, ...
+Available at SSRN 4848395
+A Study of Spatio-Temporal Lightning Patterns Using Self-Organizing Maps
+AP ALMEIDA, AJ CALHEIROS, CA SANCHEZ, HB LEAL NETO
+Spatial Sensitivity of Complex Network Communities in the Amazon Basin in Relation to the Minimum Link Value
+CA SANCHEZ, AJP CALHEIROS, A ALMEIDA, HB LEAL NETO
+HYDROTRACK: UMA FERRAMENTA PARA PREVISAO IMEDIATA DA PRECIPITAÇÃO
+AJP Calheiros, LAT Machado
+A CATÁSTROFE DE 1 DE AGOSTO DE 2000 NO LESTE DO NORDESTE DO BRASIL
+AJP Calheiros, LCB Molion, S de Oliveira Bernardo
+VÓRTICE CICLÔNICO SOBRE O NORDESTE DO BRASIL EM JANEIRO DE 2000
+AJP Calheiros, LCB Molion, SDO Bernardo
+EVENTO CRÍTICO DE PRECIPITAÇÃO SOBRE O NORDESTE DO BRASIL EM JANEIRO DE 2002
+AJP Calheiros, LCB Molion, S de Oliveira Bernardo
+Novus Natural Science Research
+K Bhattacharya, A Calheiros, M Maiti, PK Karmakar
+ESTUDO SOBRE A PROPAGAÇÃO DOS SISTEMAS CONVECTIVOS DE MESOESCALA SOBRE O SUDESTE DO BRASIL
+DA Vila, AJP Calheiros
+RADIOMETRIC STUDIES OF WATER VAPOUR AT 22.234 GHz OVER BRAZIL
+AJ Calheiros, LA Machado
+EVENTOS CRÍTICOS NO NORDESTE DO BRASIL: O EVENTO DE JANEIRO DE 2004 EM ALAGOAS
+AJP CALHEIROS, LCB MOLION, RS TENÓRIO
+ANÁLISE DE EVENTOS EXTREMOS DE PRECIPITAÇÃO REGISTRADOS NO MUNICÍPIO DE ITAJUBÁ, MG: CASO ENCHENTE DE 2000.
+B Campos, AJP Calheiros, VSB Carvalho
+ANÁLISE DO TIPO DE PRECIPITAÇÃO NO INÍCIO E FIM DA ESTAÇÃO CHUVOSA SOBRE A BACIA AMAZÔNICA CENTRAL EM 2007/2008
+AJP Calheiros, SR Garcia, MT Kayano, L Augusto, T Machado
+5.02 SEVERE WEATHER EVENTS OVER NORTHEASTERN BRASIL: THE JANUARY 2004 EVENT
+AJP Calheiros, LCB Molion, RS Tenório
